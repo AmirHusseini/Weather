@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Mule\Downloads\ConsoleApplication4-20191215T211852Z-001\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(47,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mule\Downloads\ConsoleApplication4-20191215T211852Z-001\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(63,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mule\Downloads\ConsoleApplication4-20191215T211852Z-001\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(67,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mule\Downloads\ConsoleApplication4-20191215T211852Z-001\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(121,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\Mule\Downloads\ConsoleApplication4-20191215T211852Z-001\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
